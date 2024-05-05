@@ -7,7 +7,7 @@ A website developed using javaScript which visualize the different sorting algor
 5. Quick Sort.
 
 # Link
-
+https://github.com/pranjalrai099/algoVis
 
 
 # Built with 
